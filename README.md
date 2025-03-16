@@ -19,7 +19,7 @@ A space-themed asteroid shooter game built with Pygame. The game features a spac
    ```
 3. Run the game:
    ```bash
-   python main.py
+   python game.py
    ```
 
 ## License
